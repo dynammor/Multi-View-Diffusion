@@ -1,1 +1,1 @@
-# LJH_DiffGAD
+# MV spectral diffusion
