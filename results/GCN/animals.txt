@@ -1,0 +1,348 @@
+2025-03-25  23:27:21
+dataset:animals | layer_num:2 | rep_num：1 | Ratio：0.1
+dropout:0.5 | epochs:1500 | lr:0.001 | wd:0.0005 | hidden:32
+ACC_mean:77.4448 | ACC_std: 0.0000 | ACC_max:77.4448
+F1_mean:70.9748 | F1_std: 0.0000 | F1_max:70.9748
+----------------------------------------------------------------------------
+2025-03-25  23:32:07
+dataset:animals | layer_num:2 | rep_num：1 | Ratio：0.1
+dropout:0.5 | epochs:2500 | lr:0.003 | wd:0.0005 | hidden:32
+ACC_mean:74.0101 | ACC_std: 0.0000 | ACC_max:74.0101
+F1_mean:68.3664 | F1_std: 0.0000 | F1_max:68.3664
+----------------------------------------------------------------------------
+2025-03-26  14:41:15
+dataset:animals | layer_num:2 | rep_num：1 | Ratio：0.1
+dropout:0.5 | epochs:2500 | lr:0.001 | wd:0.0005 | hidden:32
+ACC_mean:76.9525 | ACC_std: 0.0000 | ACC_max:76.9525
+F1_mean:70.2399 | F1_std: 0.0000 | F1_max:70.2399
+----------------------------------------------------------------------------
+2025-03-26  14:43:59
+dataset:animals | layer_num:2 | rep_num：1 | Ratio：0.1
+dropout:0.5 | epochs:5000 | lr:0.001 | wd:0.0005 | hidden:32
+ACC_mean:76.7338 | ACC_std: 0.0000 | ACC_max:76.7338
+F1_mean:69.5087 | F1_std: 0.0000 | F1_max:69.5087
+----------------------------------------------------------------------------
+2025-03-26  14:55:02
+dataset:animals | layer_num:2 | rep_num：1 | Ratio：0.1
+dropout:0.5 | epochs:1500 | lr:0.001 | wd:0.0005 | hidden:32
+ACC_mean:58.6196 | ACC_std: 0.0000 | ACC_max:58.6196
+F1_mean:51.8021 | F1_std: 0.0000 | F1_max:51.8021
+----------------------------------------------------------------------------
+2025-03-26  14:58:38
+dataset:animals | layer_num:2 | rep_num：1 | Ratio：0.1
+dropout:0.5 | epochs:2500 | lr:0.001 | wd:0.0005 | hidden:32
+ACC_mean:73.1240 | ACC_std: 0.0000 | ACC_max:73.1240
+F1_mean:66.1405 | F1_std: 0.0000 | F1_max:66.1405
+----------------------------------------------------------------------------
+2025-03-26  15:14:40
+dataset:animals | layer_num:2 | rep_num：1 | Ratio：0.1
+dropout:0.5 | epochs:2500 | lr:0.001 | wd:0.0005 | hidden:32
+ACC_mean:77.0729 | ACC_std: 0.0000 | ACC_max:77.0729
+F1_mean:71.2864 | F1_std: 0.0000 | F1_max:71.2864
+----------------------------------------------------------------------------
+2025-03-26  15:18:35
+dataset:animals | layer_num:2 | rep_num：1 | Ratio：0.1
+dropout:0.5 | epochs:2500 | lr:0.001 | wd:0.0005 | hidden:32
+ACC_mean:54.2551 | ACC_std: 0.0000 | ACC_max:54.2551
+F1_mean:48.8804 | F1_std: 0.0000 | F1_max:48.8804
+----------------------------------------------------------------------------
+2025-03-26  15:20:36
+dataset:animals | layer_num:2 | rep_num：1 | Ratio：0.1
+dropout:0.5 | epochs:2500 | lr:0.001 | wd:0.0005 | hidden:32
+ACC_mean:76.0556 | ACC_std: 0.0000 | ACC_max:76.0556
+F1_mean:69.1283 | F1_std: 0.0000 | F1_max:69.1283
+----------------------------------------------------------------------------
+2025-03-26  15:23:55
+dataset:animals | layer_num:2 | rep_num：1 | Ratio：0.1
+dropout:0.5 | epochs:2500 | lr:0.001 | wd:0.0005 | hidden:32
+ACC_mean:77.1713 | ACC_std: 0.0000 | ACC_max:77.1713
+F1_mean:71.6557 | F1_std: 0.0000 | F1_max:71.6557
+----------------------------------------------------------------------------
+2025-03-26  15:30:20
+dataset:animals | layer_num:2 | rep_num：1 | Ratio：0.1
+dropout:0.5 | epochs:2500 | lr:0.001 | wd:0.0005 | hidden:32
+ACC_mean:1.7939 | ACC_std: 0.0000 | ACC_max:1.7939
+F1_mean:0.0705 | F1_std: 0.0000 | F1_max:0.0705
+----------------------------------------------------------------------------
+2025-03-27  14:40:37
+dataset:animals | layer_num:2 | rep_num：1 | Ratio：0.1
+dropout:0.5 | epochs:2500 | lr:0.001 | wd:0.0005 | hidden:32
+ACC_mean:78.5933 | ACC_std: 0.0000 | ACC_max:78.5933
+F1_mean:73.7019 | F1_std: 0.0000 | F1_max:73.7019
+----------------------------------------------------------------------------
+2025-03-27  14:42:24
+dataset:animals | layer_num:2 | rep_num：1 | Ratio：0.1
+dropout:0.5 | epochs:2500 | lr:0.001 | wd:0.0005 | hidden:32
+ACC_mean:77.7839 | ACC_std: 0.0000 | ACC_max:77.7839
+F1_mean:71.8124 | F1_std: 0.0000 | F1_max:71.8124
+----------------------------------------------------------------------------
+2025-03-27  16:15:32
+dataset:animals | layer_num:2 | rep_num：1 | Ratio：0.1
+dropout:0.2 | epochs:2500 | lr:0.001 | wd:0.0005 | hidden:32
+ACC_mean:80.3380 | ACC_std: 1.3509 | ACC_max:81.6889
+F1_mean:72.7008 | F1_std: 1.6658 | F1_max:74.3666
+----------------------------------------------------------------------------
+2025-03-28  23:01:25
+dataset:animals | layer_num:2 | rep_num：1 | Ratio：0.1
+dropout:0.2 | epochs:2500 | lr:0.001 | wd:0.0005 | hidden:32
+temp_acc:81.8311 | ACC_std: 0.0000 | ACC_max:81.8311
+temp_f1:75.7725 | F1_std: 0.0000 | F1_max:75.7725
+----------------------------------------------------------------------------
+2025-03-28  23:05:30
+dataset:animals | layer_num:2 | rep_num：1 | Ratio：0.1
+dropout:0.2 | epochs:2500 | lr:0.001 | wd:0.0005 | hidden:32
+temp_acc:81.7764 | ACC_std: 0.0000 | ACC_max:81.7764
+temp_f1:74.9330 | F1_std: 0.0000 | F1_max:74.9330
+----------------------------------------------------------------------------
+2025-04-05  13:30:08
+dataset:animals | layer_num:2 | rep_num：1 | Ratio：0.1
+dropout:0.2 | epochs:2500 | lr:0.001 | wd:0.0005 | hidden:32
+temp_acc:81.5248 | ACC_std: 0.0000 | ACC_max:81.5248
+temp_f1:76.0731 | F1_std: 0.0000 | F1_max:76.0731
+----------------------------------------------------------------------------
+2025-04-10  18:14:34
+dataset:animals | layer_num:2 | rep_num：1 | Ratio：0.1
+dropout:0.2 | epochs:2500 | lr:0.001 | wd:0.0005 | hidden:32
+temp_acc:0.8555 | ACC_std: 0.0000 | ACC_max:0.8555
+temp_f1:0.8020 | F1_std: 0.0000 | F1_max:0.8020
+----------------------------------------------------------------------------
+2025-04-14  19:35:33
+dataset:animals | layer_num:2 | rep_num：3 | Ratio：0.1
+dropout:0.2 | epochs:1000 | lr:0.001 | wd:0.0005 | hidden:32
+temp_acc:0.0701 | ACC_std: 0.0010 | ACC_max:0.0715
+temp_f1:0.0542 | F1_std: 0.0017 | F1_max:0.0560
+----------------------------------------------------------------------------
+2025-04-16  13:14:43
+dataset:animals | layer_num:2 | rep_num：3 | Ratio：0.1
+dropout:0.2 | epochs:1000 | lr:0.001 | wd:0.0005 | hidden:32
+temp_acc:0.7534 | ACC_std: 0.0306 | ACC_max:0.7786
+temp_f1:0.6309 | F1_std: 0.0342 | F1_max:0.6634
+----------------------------------------------------------------------------
+2025-04-16  14:08:02
+dataset:animals | layer_num:2 | rep_num：3 | Ratio：0.1
+dropout:0.2 | epochs:1000 | lr:0.001 | wd:0.0005 | hidden:32
+temp_acc:0.5619 | ACC_std: 0.2650 | ACC_max:0.7648
+temp_f1:0.4343 | F1_std: 0.2527 | F1_max:0.6277
+----------------------------------------------------------------------------
+2025-04-16  14:18:57
+dataset:animals | layer_num:2 | rep_num：3 | Ratio：0.1
+dropout:0.2 | epochs:1000 | lr:0.001 | wd:0.0005 | hidden:32
+temp_acc:0.7279 | ACC_std: 0.0320 | ACC_max:0.7729
+temp_f1:0.5976 | F1_std: 0.0377 | F1_max:0.6504
+----------------------------------------------------------------------------
+2025-04-16  14:28:13
+dataset:animals | layer_num:2 | rep_num：3 | Ratio：0.1
+dropout:0.2 | epochs:1000 | lr:0.001 | wd:0.0005 | hidden:32
+temp_acc:0.6198 | ACC_std: 0.1777 | ACC_max:0.7464
+temp_f1:0.4842 | F1_std: 0.1838 | F1_max:0.6154
+----------------------------------------------------------------------------
+2025-04-16  18:37:19
+dataset:animals | layer_num:2 | rep_num：3 | Ratio：0.1
+dropout:0.2 | epochs:2000 | lr:0.001 | wd:0.0005 | hidden:32
+temp_acc:0.8299 | ACC_std: 0.0017 | ACC_max:0.8318
+temp_f1:0.7372 | F1_std: 0.0026 | F1_max:0.7390
+----------------------------------------------------------------------------
+2025-04-17  12:53:33
+dataset:animals | layer_num:2 | rep_num：3 | Ratio：0.1
+dropout:0.2 | epochs:2000 | lr:0.001 | wd:0.0005 | hidden:32
+temp_acc:0.8042 | ACC_std: 0.0022 | ACC_max:0.8072
+temp_f1:0.7084 | F1_std: 0.0040 | F1_max:0.7134
+----------------------------------------------------------------------------
+2025-04-17  13:01:37
+dataset:animals | layer_num:2 | rep_num：3 | Ratio：0.1
+dropout:0.2 | epochs:2000 | lr:0.001 | wd:0.0005 | hidden:32
+temp_acc:0.7854 | ACC_std: 0.0070 | ACC_max:0.7953
+temp_f1:0.6832 | F1_std: 0.0128 | F1_max:0.7010
+----------------------------------------------------------------------------
+2025-04-17  13:09:49
+dataset:animals | layer_num:2 | rep_num：3 | Ratio：0.1
+dropout:0.2 | epochs:2000 | lr:0.001 | wd:0.0005 | hidden:32
+temp_acc:0.7584 | ACC_std: 0.0402 | ACC_max:0.7958
+temp_f1:0.6465 | F1_std: 0.0427 | F1_max:0.6914
+----------------------------------------------------------------------------
+2025-04-17  13:20:20
+dataset:animals | layer_num:2 | rep_num：3 | Ratio：0.1
+dropout:0.2 | epochs:2000 | lr:0.001 | wd:0.0005 | hidden:32
+temp_acc:0.8049 | ACC_std: 0.0096 | ACC_max:0.8163
+temp_f1:0.7048 | F1_std: 0.0082 | F1_max:0.7144
+----------------------------------------------------------------------------
+2025-04-17  14:14:34
+dataset:animals | layer_num:2 | rep_num：3 | Ratio：0.1
+dropout:0.2 | epochs:2000 | lr:0.0005 | wd:0.0005 | hidden:32
+temp_acc:0.8069 | ACC_std: 0.0087 | ACC_max:0.8184
+temp_f1:0.7327 | F1_std: 0.0061 | F1_max:0.7413
+----------------------------------------------------------------------------
+2025-04-17  14:32:00
+dataset:animals | layer_num:2 | rep_num：3 | Ratio：0.1
+dropout:0.2 | epochs:2000 | lr:0.0005 | wd:0.0005 | hidden:32
+temp_acc:0.8503 | ACC_std: 0.0032 | ACC_max:0.8544
+temp_f1:0.7973 | F1_std: 0.0041 | F1_max:0.8006
+----------------------------------------------------------------------------
+2025-04-18  11:52:48
+dataset:animals | layer_num:2 | rep_num：3 | Ratio：0.1
+dropout:0.2 | epochs:2000 | lr:0.001 | wd:0.0005 | hidden:32
+temp_acc:0.8462 | ACC_std: 0.0020 | ACC_max:0.8489
+temp_f1:0.7799 | F1_std: 0.0084 | F1_max:0.7864
+----------------------------------------------------------------------------
+2025-04-18  12:11:44
+dataset:animals | layer_num:2 | rep_num：3 | Ratio：0.1
+dropout:0.2 | epochs:2000 | lr:0.001 | wd:0.0005 | hidden:32
+temp_acc:0.8484 | ACC_std: 0.0042 | ACC_max:0.8521
+temp_f1:0.7920 | F1_std: 0.0103 | F1_max:0.8034
+----------------------------------------------------------------------------
+2025-04-18  12:16:00
+dataset:animals | layer_num:2 | rep_num：3 | Ratio：0.1
+dropout:0.2 | epochs:2000 | lr:0.001 | wd:0.0005 | hidden:32
+temp_acc:0.8466 | ACC_std: 0.0038 | ACC_max:0.8507
+temp_f1:0.7929 | F1_std: 0.0010 | F1_max:0.7937
+----------------------------------------------------------------------------
+2025-04-18  12:22:48
+dataset:animals | layer_num:2 | rep_num：3 | Ratio：0.1
+dropout:0.2 | epochs:2000 | lr:0.001 | wd:0.0005 | hidden:32
+temp_acc:0.7971 | ACC_std: 0.0020 | ACC_max:0.7998
+temp_f1:0.6931 | F1_std: 0.0022 | F1_max:0.6960
+----------------------------------------------------------------------------
+2025-04-18  12:31:05
+dataset:animals | layer_num:2 | rep_num：3 | Ratio：0.1
+dropout:0.2 | epochs:2000 | lr:0.001 | wd:0.0005 | hidden:32
+temp_acc:0.8539 | ACC_std: 0.0027 | ACC_max:0.8567
+temp_f1:0.7948 | F1_std: 0.0026 | F1_max:0.7982
+----------------------------------------------------------------------------
+2025-04-18  12:44:49
+dataset:animals | layer_num:2 | rep_num：3 | Ratio：0.1
+dropout:0.2 | epochs:2000 | lr:0.001 | wd:0.0005 | hidden:32
+temp_acc:0.8466 | ACC_std: 0.0034 | ACC_max:0.8497
+temp_f1:0.7879 | F1_std: 0.0052 | F1_max:0.7943
+----------------------------------------------------------------------------
+2025-04-18  14:11:27
+dataset:animals | layer_num:2 | rep_num：3 | Ratio：0.1
+dropout:0.2 | epochs:2000 | lr:0.0005 | wd:0.0005 | hidden:32
+temp_acc:0.8531 | ACC_std: 0.0004 | ACC_max:0.8536
+temp_f1:0.8013 | F1_std: 0.0057 | F1_max:0.8093
+----------------------------------------------------------------------------
+2025-04-18  14:34:58
+dataset:animals | layer_num:2 | rep_num：3 | Ratio：0.1
+dropout:0.2 | epochs:2000 | lr:0.0005 | wd:0.0005 | hidden:32
+temp_acc:0.8496 | ACC_std: 0.0039 | ACC_max:0.8550
+temp_f1:0.7957 | F1_std: 0.0067 | F1_max:0.8048
+----------------------------------------------------------------------------
+2025-04-18  14:49:43
+dataset:animals | layer_num:2 | rep_num：3 | Ratio：0.1
+dropout:0.2 | epochs:2000 | lr:0.0005 | wd:0.0005 | hidden:32
+temp_acc:0.8520 | ACC_std: 0.0034 | ACC_max:0.8568
+temp_f1:0.8023 | F1_std: 0.0042 | F1_max:0.8069
+----------------------------------------------------------------------------
+2025-04-20  12:36:03
+dataset:animals | layer_num:2 | rep_num：3 | Ratio：0.1
+dropout:0.2 | epochs:2000 | lr:0.0003 | wd:0.0005 | hidden:32
+temp_acc:0.8493 | ACC_std: 0.0015 | ACC_max:0.8507
+temp_f1:0.7948 | F1_std: 0.0069 | F1_max:0.8013
+----------------------------------------------------------------------------
+2025-04-20  12:45:27
+dataset:animals | layer_num:2 | rep_num：3 | Ratio：0.1
+dropout:0.2 | epochs:2000 | lr:0.0003 | wd:0.0005 | hidden:32
+temp_acc:0.8531 | ACC_std: 0.0028 | ACC_max:0.8570
+temp_f1:0.7964 | F1_std: 0.0095 | F1_max:0.8097
+----------------------------------------------------------------------------
+2025-04-20  12:49:53
+dataset:animals | layer_num:2 | rep_num：3 | Ratio：0.1
+dropout:0.2 | epochs:2000 | lr:0.0003 | wd:0.0005 | hidden:32
+temp_acc:0.8474 | ACC_std: 0.0027 | ACC_max:0.8504
+temp_f1:0.7938 | F1_std: 0.0065 | F1_max:0.8013
+----------------------------------------------------------------------------
+2025-04-20  21:30:47
+dataset:animals | layer_num:2 | rep_num：3 | Ratio：0.1
+dropout:0.2 | epochs:1000 | lr:0.0001 | wd:0.0005 | hidden:32
+temp_acc:0.8489 | ACC_std: 0.0004 | ACC_max:0.8495
+temp_f1:0.7930 | F1_std: 0.0037 | F1_max:0.7981
+----------------------------------------------------------------------------
+2025-04-20  21:32:59
+dataset:animals | layer_num:2 | rep_num：3 | Ratio：0.1
+dropout:0.2 | epochs:1000 | lr:0.0001 | wd:0.0005 | hidden:32
+temp_acc:0.8523 | ACC_std: 0.0051 | ACC_max:0.8567
+temp_f1:0.8029 | F1_std: 0.0046 | F1_max:0.8087
+----------------------------------------------------------------------------
+2025-04-26  20:10:08
+dataset:animals | layer_num:2 | rep_num：3 | Ratio：0.1
+dropout:0.2 | epochs:2000 | lr:0.0001 | wd:0.0005 | hidden:32
+temp_acc:0.8500 | ACC_std: 0.0033 | ACC_max:0.8530
+temp_f1:0.7779 | F1_std: 0.0041 | F1_max:0.7811
+----------------------------------------------------------------------------
+2025-04-26  20:45:50
+dataset:animals | layer_num:2 | rep_num：3 | Ratio：0.1
+dropout:0.2 | epochs:2000 | lr:0.0001 | wd:0.0005 | hidden:32
+temp_acc:84.8793 | ACC_std: 0.2910 | ACC_max:85.2877
+temp_f1:77.4232 | F1_std: 0.2957 | F1_max:77.8399
+----------------------------------------------------------------------------
+2025-05-07  21:26:43
+dataset:animals | layer_num:2 | rep_num：3 | Ratio：0.025
+dropout:0.1 | epochs:2500 | lr:0.0003 | wd:0.0005 | hidden:64
+temp_acc:86.3333 | ACC_std: 2.8674 | ACC_max:90.0000
+temp_f1:63.9563 | F1_std: 0.7880 | F1_max:65.0652
+----------------------------------------------------------------------------
+2025-05-07  21:31:06
+dataset:animals | layer_num:2 | rep_num：3 | Ratio：0.1
+dropout:0.1 | epochs:2500 | lr:0.0003 | wd:0.0005 | hidden:64
+temp_acc:86.3333 | ACC_std: 2.8674 | ACC_max:90.0000
+temp_f1:63.9563 | F1_std: 0.7880 | F1_max:65.0652
+----------------------------------------------------------------------------
+2025-05-07  22:35:56
+dataset:animals | layer_num:2 | rep_num：3 | Ratio：0.1
+dropout:0.5 | epochs:2500 | lr:0.0003 | wd:0.0005 | hidden:64
+temp_acc:85.3333 | ACC_std: 2.8674 | ACC_max:89.0000
+temp_f1:64.7947 | F1_std: 0.9074 | F1_max:65.9934
+----------------------------------------------------------------------------
+2025-05-10  22:28:44
+dataset:animals | layer_num:2 | rep_num：3 | Ratio：0.1
+dropout:0.5 | epochs:1000 | lr:0.0003 | wd:0.0005 | hidden:64
+temp_acc:84.8684 | ACC_std: 0.1295 | ACC_max:85.0252
+temp_f1:78.2565 | F1_std: 0.7223 | F1_max:79.1922
+----------------------------------------------------------------------------
+2025-05-10  22:32:14
+dataset:animals | layer_num:2 | rep_num：3 | Ratio：0.1
+dropout:0.5 | epochs:1000 | lr:0.0003 | wd:0 | hidden:64
+temp_acc:84.9668 | ACC_std: 0.2604 | ACC_max:85.1564
+temp_f1:78.3171 | F1_std: 0.8355 | F1_max:79.3988
+----------------------------------------------------------------------------
+2025-05-13  15:28:57
+dataset:animals | layer_num:2 | rep_num：3 | Ratio：0.1
+dropout:0.5 | epochs:1000 | lr:0.0003 | wd:0 | hidden:64
+temp_acc:85.0252 | ACC_std: 0.4023 | ACC_max:85.5940
+temp_f1:77.8508 | F1_std: 0.9584 | F1_max:79.1771
+----------------------------------------------------------------------------
+2025-05-14  17:02:39
+dataset:animals | layer_num:2 | rep_num：3 | Ratio：0.1
+dropout:0.5 | epochs:1000 | lr:0.0003 | wd:0.0005 | hidden:64
+temp_acc:84.2449 | ACC_std: 0.7533 | ACC_max:85.3096
+temp_f1:77.6370 | F1_std: 0.6931 | F1_max:78.5715
+----------------------------------------------------------------------------
+2025-05-21  14:28:52
+dataset:animals | layer_num:2 | rep_num：3 | Ratio：0.1
+dropout:0.5 | epochs:2000 | lr:0.0003 | wd:0.0005 | hidden:64
+temp_acc:84.1027 | ACC_std: 0.3791 | ACC_max:84.6204
+temp_f1:77.6486 | F1_std: 0.1934 | F1_max:77.8952
+----------------------------------------------------------------------------
+2025-06-22  15:06:18
+dataset:animals | layer_num:2 | rep_num：3 | Ratio：0.1
+dropout:0.5 | epochs:1000 | lr:0.0003 | wd:0.0005 | hidden:64
+temp_acc:84.3980 | ACC_std: 0.4537 | ACC_max:84.9158
+temp_f1:78.9047 | F1_std: 0.1913 | F1_max:79.1508
+----------------------------------------------------------------------------
+2025-06-22  15:10:25
+dataset:animals | layer_num:2 | rep_num：3 | Ratio：0.1
+dropout:0.5 | epochs:1000 | lr:0.0003 | wd:0.0005 | hidden:64
+temp_acc:83.4500 | ACC_std: 0.1349 | ACC_max:83.6032
+temp_f1:73.2297 | F1_std: 0.4165 | F1_max:73.7880
+----------------------------------------------------------------------------
+2025-06-22  15:13:45
+dataset:animals | layer_num:2 | rep_num：3 | Ratio：0.1
+dropout:0.5 | epochs:1000 | lr:0.0003 | wd:0.0005 | hidden:64
+temp_acc:84.9851 | ACC_std: 0.5722 | ACC_max:85.7033
+temp_f1:78.7499 | F1_std: 1.0979 | F1_max:79.6455
+----------------------------------------------------------------------------
+2025-07-07  20:23:36
+dataset:animals | layer_num:2 | rep_num：3 | Ratio：0.1
+dropout:0.5 | epochs:1000 | lr:0.0003 | wd:0.0005 | hidden:64
+temp_acc:84.2449 | ACC_std: 0.7533 | ACC_max:85.3096
+temp_f1:77.6370 | F1_std: 0.6931 | F1_max:78.5715
+----------------------------------------------------------------------------

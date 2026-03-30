@@ -1,0 +1,468 @@
+2025-03-25  21:09:10
+dataset:NUS-WIDE | layer_num:2 | rep_num：1 | Ratio：0.1
+dropout:0.5 | epochs:500 | lr:0.0001 | wd:0.0005 | hidden:32
+ACC_mean:37.5694 | ACC_std: 0.0000 | ACC_max:37.5694
+F1_mean:36.7646 | F1_std: 0.0000 | F1_max:36.7646
+----------------------------------------------------------------------------
+2025-03-25  21:12:40
+dataset:NUS-WIDE | layer_num:2 | rep_num：1 | Ratio：0.1
+dropout:0.5 | epochs:500 | lr:0.001 | wd:0.0005 | hidden:32
+ACC_mean:39.1667 | ACC_std: 0.0000 | ACC_max:39.1667
+F1_mean:38.4330 | F1_std: 0.0000 | F1_max:38.4330
+----------------------------------------------------------------------------
+2025-03-25  21:15:20
+dataset:NUS-WIDE | layer_num:2 | rep_num：1 | Ratio：0.1
+dropout:0.5 | epochs:1000 | lr:0.001 | wd:0.0005 | hidden:32
+ACC_mean:39.3750 | ACC_std: 0.0000 | ACC_max:39.3750
+F1_mean:39.5257 | F1_std: 0.0000 | F1_max:39.5257
+----------------------------------------------------------------------------
+2025-03-25  21:17:16
+dataset:NUS-WIDE | layer_num:2 | rep_num：1 | Ratio：0.1
+dropout:0.5 | epochs:1000 | lr:0.001 | wd:0.0005 | hidden:32
+ACC_mean:35.8333 | ACC_std: 0.0000 | ACC_max:35.8333
+F1_mean:35.9775 | F1_std: 0.0000 | F1_max:35.9775
+----------------------------------------------------------------------------
+2025-03-25  21:32:08
+dataset:NUS-WIDE | layer_num:2 | rep_num：1 | Ratio：0.1
+dropout:0.5 | epochs:1000 | lr:0.001 | wd:0.0005 | hidden:32
+ACC_mean:42.9167 | ACC_std: 0.0000 | ACC_max:42.9167
+F1_mean:42.8506 | F1_std: 0.0000 | F1_max:42.8506
+----------------------------------------------------------------------------
+2025-03-25  21:33:21
+dataset:NUS-WIDE | layer_num:2 | rep_num：1 | Ratio：0.1
+dropout:0.5 | epochs:1000 | lr:0.001 | wd:0.0005 | hidden:32
+ACC_mean:39.2361 | ACC_std: 0.0000 | ACC_max:39.2361
+F1_mean:38.7495 | F1_std: 0.0000 | F1_max:38.7495
+----------------------------------------------------------------------------
+2025-03-25  21:49:39
+dataset:NUS-WIDE | layer_num:2 | rep_num：1 | Ratio：0.1
+dropout:0.5 | epochs:1000 | lr:0.001 | wd:0.0005 | hidden:32
+ACC_mean:40.0000 | ACC_std: 0.0000 | ACC_max:40.0000
+F1_mean:39.9196 | F1_std: 0.0000 | F1_max:39.9196
+----------------------------------------------------------------------------
+2025-03-25  21:51:26
+dataset:NUS-WIDE | layer_num:2 | rep_num：1 | Ratio：0.1
+dropout:0.5 | epochs:1000 | lr:0.001 | wd:0.0005 | hidden:32
+ACC_mean:12.5000 | ACC_std: 0.0000 | ACC_max:12.5000
+F1_mean:2.7778 | F1_std: 0.0000 | F1_max:2.7778
+----------------------------------------------------------------------------
+2025-03-25  21:52:39
+dataset:NUS-WIDE | layer_num:2 | rep_num：1 | Ratio：0.1
+dropout:0.5 | epochs:1000 | lr:0.001 | wd:0.0005 | hidden:32
+ACC_mean:12.5000 | ACC_std: 0.0000 | ACC_max:12.5000
+F1_mean:2.7778 | F1_std: 0.0000 | F1_max:2.7778
+----------------------------------------------------------------------------
+2025-03-25  23:21:59
+dataset:NUS-WIDE | layer_num:2 | rep_num：1 | Ratio：0.1
+dropout:0.5 | epochs:1000 | lr:0.001 | wd:0.0005 | hidden:32
+ACC_mean:39.8611 | ACC_std: 0.0000 | ACC_max:39.8611
+F1_mean:40.0967 | F1_std: 0.0000 | F1_max:40.0967
+----------------------------------------------------------------------------
+2025-03-26  00:08:10
+dataset:NUS-WIDE | layer_num:2 | rep_num：1 | Ratio：0.1
+dropout:0.5 | epochs:2500 | lr:0.001 | wd:0.0005 | hidden:32
+ACC_mean:44.5833 | ACC_std: 0.0000 | ACC_max:44.5833
+F1_mean:44.2089 | F1_std: 0.0000 | F1_max:44.2089
+----------------------------------------------------------------------------
+2025-03-26  00:11:39
+dataset:NUS-WIDE | layer_num:2 | rep_num：1 | Ratio：0.1
+dropout:0.5 | epochs:2500 | lr:0.001 | wd:0.0005 | hidden:32
+ACC_mean:46.3889 | ACC_std: 0.0000 | ACC_max:46.3889
+F1_mean:46.3473 | F1_std: 0.0000 | F1_max:46.3473
+----------------------------------------------------------------------------
+2025-03-26  13:36:26
+dataset:NUS-WIDE | layer_num:2 | rep_num：1 | Ratio：0.1
+dropout:0.5 | epochs:2500 | lr:0.001 | wd:0.0005 | hidden:32
+ACC_mean:43.1944 | ACC_std: 0.0000 | ACC_max:43.1944
+F1_mean:43.8136 | F1_std: 0.0000 | F1_max:43.8136
+----------------------------------------------------------------------------
+2025-03-26  13:40:48
+dataset:NUS-WIDE | layer_num:2 | rep_num：1 | Ratio：0.1
+dropout:0.5 | epochs:2500 | lr:0.001 | wd:0.0005 | hidden:32
+ACC_mean:45.6944 | ACC_std: 0.0000 | ACC_max:45.6944
+F1_mean:46.1791 | F1_std: 0.0000 | F1_max:46.1791
+----------------------------------------------------------------------------
+2025-03-26  13:51:17
+dataset:NUS-WIDE | layer_num:2 | rep_num：1 | Ratio：0.1
+dropout:0.5 | epochs:2500 | lr:0.001 | wd:0.0005 | hidden:32
+ACC_mean:43.1944 | ACC_std: 0.0000 | ACC_max:43.1944
+F1_mean:40.9466 | F1_std: 0.0000 | F1_max:40.9466
+----------------------------------------------------------------------------
+2025-03-26  13:52:52
+dataset:NUS-WIDE | layer_num:2 | rep_num：1 | Ratio：0.1
+dropout:0.5 | epochs:2500 | lr:0.001 | wd:0.0005 | hidden:32
+ACC_mean:45.8333 | ACC_std: 0.0000 | ACC_max:45.8333
+F1_mean:46.0422 | F1_std: 0.0000 | F1_max:46.0422
+----------------------------------------------------------------------------
+2025-03-27  15:15:42
+dataset:NUS-WIDE | layer_num:2 | rep_num：1 | Ratio：0.1
+dropout:0.5 | epochs:2500 | lr:0.001 | wd:0.0005 | hidden:32
+ACC_mean:38.2292 | ACC_std: 1.2153 | ACC_max:39.4444
+F1_mean:37.7155 | F1_std: 2.0031 | F1_max:39.7185
+----------------------------------------------------------------------------
+2025-03-27  15:17:34
+dataset:NUS-WIDE | layer_num:2 | rep_num：1 | Ratio：0.1
+dropout:0.5 | epochs:2500 | lr:0.001 | wd:0.0005 | hidden:32
+ACC_mean:12.5000 | ACC_std: 0.0000 | ACC_max:12.5000
+F1_mean:2.7778 | F1_std: 0.0000 | F1_max:2.7778
+----------------------------------------------------------------------------
+2025-03-27  15:19:14
+dataset:NUS-WIDE | layer_num:2 | rep_num：1 | Ratio：0.1
+dropout:0.5 | epochs:2500 | lr:0.001 | wd:0.0005 | hidden:32
+ACC_mean:41.8750 | ACC_std: 1.7361 | ACC_max:43.6111
+F1_mean:42.4142 | F1_std: 2.2496 | F1_max:44.6637
+----------------------------------------------------------------------------
+2025-03-27  15:34:58
+dataset:NUS-WIDE | layer_num:2 | rep_num：1 | Ratio：0.1
+dropout:0.5 | epochs:2500 | lr:0.0001 | wd:0.0005 | hidden:32
+ACC_mean:43.4028 | ACC_std: 0.8333 | ACC_max:44.2361
+F1_mean:43.1195 | F1_std: 0.4369 | F1_max:43.5564
+----------------------------------------------------------------------------
+2025-03-27  15:38:35
+dataset:NUS-WIDE | layer_num:2 | rep_num：1 | Ratio：0.1
+dropout:0.5 | epochs:2500 | lr:0.0005 | wd:0.0005 | hidden:32
+ACC_mean:44.0972 | ACC_std: 0.4861 | ACC_max:44.5833
+F1_mean:44.8153 | F1_std: 0.5773 | F1_max:45.3926
+----------------------------------------------------------------------------
+2025-03-27  15:41:40
+dataset:NUS-WIDE | layer_num:2 | rep_num：1 | Ratio：0.1
+dropout:0.5 | epochs:2500 | lr:0.0005 | wd:0.0005 | hidden:32
+ACC_mean:40.9722 | ACC_std: 1.9444 | ACC_max:42.9167
+F1_mean:40.6929 | F1_std: 2.3384 | F1_max:43.0313
+----------------------------------------------------------------------------
+2025-03-27  15:46:07
+dataset:NUS-WIDE | layer_num:2 | rep_num：1 | Ratio：0.1
+dropout:0.5 | epochs:2500 | lr:0.0005 | wd:0.0005 | hidden:32
+ACC_mean:38.3333 | ACC_std: 0.7639 | ACC_max:39.0972
+F1_mean:36.7709 | F1_std: 1.8480 | F1_max:38.6189
+----------------------------------------------------------------------------
+2025-03-27  15:49:25
+dataset:NUS-WIDE | layer_num:2 | rep_num：1 | Ratio：0.1
+dropout:0.2 | epochs:2500 | lr:0.0005 | wd:0.0005 | hidden:32
+ACC_mean:46.4236 | ACC_std: 1.0069 | ACC_max:47.4306
+F1_mean:46.6337 | F1_std: 0.7885 | F1_max:47.4221
+----------------------------------------------------------------------------
+2025-03-27  15:51:02
+dataset:NUS-WIDE | layer_num:2 | rep_num：1 | Ratio：0.1
+dropout:0.2 | epochs:2500 | lr:0.0005 | wd:0.0005 | hidden:32
+ACC_mean:44.6181 | ACC_std: 0.3125 | ACC_max:44.9306
+F1_mean:44.3010 | F1_std: 0.4198 | F1_max:44.7208
+----------------------------------------------------------------------------
+2025-03-27  15:53:51
+dataset:NUS-WIDE | layer_num:2 | rep_num：1 | Ratio：0.1
+dropout:0.2 | epochs:2500 | lr:0.0005 | wd:0.0005 | hidden:32
+ACC_mean:42.3611 | ACC_std: 1.9444 | ACC_max:44.3056
+F1_mean:42.1783 | F1_std: 1.7458 | F1_max:43.9241
+----------------------------------------------------------------------------
+2025-03-27  16:10:03
+dataset:NUS-WIDE | layer_num:2 | rep_num：1 | Ratio：0.1
+dropout:0.2 | epochs:2500 | lr:0.001 | wd:0.0005 | hidden:32
+ACC_mean:42.9167 | ACC_std: 0.6944 | ACC_max:43.6111
+F1_mean:43.5053 | F1_std: 0.5638 | F1_max:44.0691
+----------------------------------------------------------------------------
+2025-03-27  16:12:57
+dataset:NUS-WIDE | layer_num:2 | rep_num：1 | Ratio：0.1
+dropout:0.2 | epochs:2500 | lr:0.001 | wd:0.0005 | hidden:32
+ACC_mean:44.4444 | ACC_std: 1.8750 | ACC_max:46.3194
+F1_mean:45.1733 | F1_std: 1.6542 | F1_max:46.8275
+----------------------------------------------------------------------------
+2025-04-05  14:06:35
+dataset:NUS-WIDE | layer_num:2 | rep_num：1 | Ratio：0.1
+dropout:0.2 | epochs:2500 | lr:0.001 | wd:0.0005 | hidden:32
+temp_acc:45.2778 | ACC_std: 0.0000 | ACC_max:45.2778
+temp_f1:45.3235 | F1_std: 0.0000 | F1_max:45.3235
+----------------------------------------------------------------------------
+2025-04-05  14:39:56
+dataset:NUS-WIDE | layer_num:2 | rep_num：1 | Ratio：0.1
+dropout:0.2 | epochs:2500 | lr:0.001 | wd:0.0005 | hidden:32
+temp_acc:44.1667 | ACC_std: 0.0000 | ACC_max:44.1667
+temp_f1:44.1531 | F1_std: 0.0000 | F1_max:44.1531
+----------------------------------------------------------------------------
+2025-04-05  14:45:34
+dataset:NUS-WIDE | layer_num:2 | rep_num：1 | Ratio：0.1
+dropout:0.2 | epochs:2500 | lr:0.001 | wd:0.0005 | hidden:32
+temp_acc:44.9306 | ACC_std: 0.0000 | ACC_max:44.9306
+temp_f1:45.0422 | F1_std: 0.0000 | F1_max:45.0422
+----------------------------------------------------------------------------
+2025-04-05  14:54:18
+dataset:NUS-WIDE | layer_num:2 | rep_num：1 | Ratio：0.1
+dropout:0.2 | epochs:2500 | lr:0.001 | wd:0.0005 | hidden:32
+temp_acc:0.4736 | ACC_std: 0.0000 | ACC_max:0.4736
+temp_f1:0.4576 | F1_std: 0.0000 | F1_max:0.4576
+----------------------------------------------------------------------------
+2025-04-05  14:55:22
+dataset:NUS-WIDE | layer_num:2 | rep_num：1 | Ratio：0.1
+dropout:0.2 | epochs:2500 | lr:0.001 | wd:0.0005 | hidden:32
+temp_acc:0.5042 | ACC_std: 0.0000 | ACC_max:0.5042
+temp_f1:0.5027 | F1_std: 0.0000 | F1_max:0.5027
+----------------------------------------------------------------------------
+2025-04-10  18:24:04
+dataset:NUS-WIDE | layer_num:2 | rep_num：3 | Ratio：0.1
+dropout:0.2 | epochs:2500 | lr:0.001 | wd:0.0005 | hidden:32
+temp_acc:0.4949 | ACC_std: 0.0150 | ACC_max:0.5097
+temp_f1:0.4911 | F1_std: 0.0169 | F1_max:0.5054
+----------------------------------------------------------------------------
+2025-04-15  12:23:55
+dataset:NUS-WIDE | layer_num:2 | rep_num：3 | Ratio：0.1
+dropout:0.2 | epochs:1000 | lr:0.001 | wd:0.0005 | hidden:32
+temp_acc:0.1819 | ACC_std: 0.0050 | ACC_max:0.1868
+temp_f1:0.1800 | F1_std: 0.0039 | F1_max:0.1835
+----------------------------------------------------------------------------
+2025-04-15  12:33:39
+dataset:NUS-WIDE | layer_num:2 | rep_num：3 | Ratio：0.1
+dropout:0.2 | epochs:1000 | lr:0.001 | wd:0.0005 | hidden:32
+temp_acc:0.1745 | ACC_std: 0.0087 | ACC_max:0.1861
+temp_f1:0.1720 | F1_std: 0.0089 | F1_max:0.1840
+----------------------------------------------------------------------------
+2025-04-16  12:17:03
+dataset:NUS-WIDE | layer_num:2 | rep_num：3 | Ratio：0.1
+dropout:0.2 | epochs:1000 | lr:0.001 | wd:0.0005 | hidden:32
+temp_acc:0.1553 | ACC_std: 0.0027 | ACC_max:0.1590
+temp_f1:0.1521 | F1_std: 0.0047 | F1_max:0.1585
+----------------------------------------------------------------------------
+2025-04-16  12:18:04
+dataset:NUS-WIDE | layer_num:2 | rep_num：3 | Ratio：0.1
+dropout:0.2 | epochs:1000 | lr:0.001 | wd:0.0005 | hidden:32
+temp_acc:0.1993 | ACC_std: 0.0089 | ACC_max:0.2118
+temp_f1:0.1948 | F1_std: 0.0086 | F1_max:0.2070
+----------------------------------------------------------------------------
+2025-04-16  12:21:24
+dataset:NUS-WIDE | layer_num:2 | rep_num：3 | Ratio：0.1
+dropout:0.2 | epochs:1000 | lr:0.001 | wd:0.0005 | hidden:32
+temp_acc:0.4875 | ACC_std: 0.0112 | ACC_max:0.5000
+temp_f1:0.4768 | F1_std: 0.0209 | F1_max:0.4971
+----------------------------------------------------------------------------
+2025-04-16  14:32:18
+dataset:NUS-WIDE | layer_num:2 | rep_num：3 | Ratio：0.1
+dropout:0.2 | epochs:1000 | lr:0.001 | wd:0.0005 | hidden:32
+temp_acc:0.4611 | ACC_std: 0.0322 | ACC_max:0.4889
+temp_f1:0.4323 | F1_std: 0.0416 | F1_max:0.4738
+----------------------------------------------------------------------------
+2025-04-16  14:34:20
+dataset:NUS-WIDE | layer_num:2 | rep_num：3 | Ratio：0.1
+dropout:0.2 | epochs:1000 | lr:0.001 | wd:0.0005 | hidden:32
+temp_acc:0.4998 | ACC_std: 0.0066 | ACC_max:0.5083
+temp_f1:0.4863 | F1_std: 0.0191 | F1_max:0.5105
+----------------------------------------------------------------------------
+2025-04-16  14:37:28
+dataset:NUS-WIDE | layer_num:2 | rep_num：3 | Ratio：0.1
+dropout:0.2 | epochs:1000 | lr:0.001 | wd:0.0005 | hidden:32
+temp_acc:0.4961 | ACC_std: 0.0168 | ACC_max:0.5139
+temp_f1:0.4882 | F1_std: 0.0162 | F1_max:0.5068
+----------------------------------------------------------------------------
+2025-04-16  14:38:17
+dataset:NUS-WIDE | layer_num:2 | rep_num：3 | Ratio：0.1
+dropout:0.2 | epochs:1000 | lr:0.001 | wd:0.0005 | hidden:32
+temp_acc:0.4914 | ACC_std: 0.0040 | ACC_max:0.4958
+temp_f1:0.4830 | F1_std: 0.0050 | F1_max:0.4899
+----------------------------------------------------------------------------
+2025-04-16  15:20:13
+dataset:NUS-WIDE | layer_num:2 | rep_num：3 | Ratio：0.1
+dropout:0.2 | epochs:1000 | lr:0.001 | wd:0.0005 | hidden:32
+temp_acc:0.4887 | ACC_std: 0.0132 | ACC_max:0.5069
+temp_f1:0.4710 | F1_std: 0.0151 | F1_max:0.4912
+----------------------------------------------------------------------------
+2025-04-16  15:23:35
+dataset:NUS-WIDE | layer_num:2 | rep_num：3 | Ratio：0.1
+dropout:0.2 | epochs:1000 | lr:0.001 | wd:0.0005 | hidden:32
+temp_acc:0.4910 | ACC_std: 0.0225 | ACC_max:0.5215
+temp_f1:0.4823 | F1_std: 0.0241 | F1_max:0.5163
+----------------------------------------------------------------------------
+2025-04-16  15:32:16
+dataset:NUS-WIDE | layer_num:2 | rep_num：3 | Ratio：0.1
+dropout:0.2 | epochs:1000 | lr:0.001 | wd:0.0005 | hidden:32
+temp_acc:0.4880 | ACC_std: 0.0185 | ACC_max:0.5139
+temp_f1:0.4809 | F1_std: 0.0188 | F1_max:0.5067
+----------------------------------------------------------------------------
+2025-04-16  15:35:24
+dataset:NUS-WIDE | layer_num:2 | rep_num：3 | Ratio：0.1
+dropout:0.2 | epochs:1000 | lr:0.001 | wd:0.0005 | hidden:32
+temp_acc:0.4539 | ACC_std: 0.0037 | ACC_max:0.4583
+temp_f1:0.4323 | F1_std: 0.0033 | F1_max:0.4358
+----------------------------------------------------------------------------
+2025-04-16  15:37:07
+dataset:NUS-WIDE | layer_num:2 | rep_num：3 | Ratio：0.1
+dropout:0.2 | epochs:1000 | lr:0.001 | wd:0.0005 | hidden:32
+temp_acc:0.4616 | ACC_std: 0.0103 | ACC_max:0.4750
+temp_f1:0.4422 | F1_std: 0.0259 | F1_max:0.4702
+----------------------------------------------------------------------------
+2025-04-16  15:49:35
+dataset:NUS-WIDE | layer_num:2 | rep_num：3 | Ratio：0.1
+dropout:0.2 | epochs:1000 | lr:0.001 | wd:0.0005 | hidden:32
+temp_acc:0.2271 | ACC_std: 0.0039 | ACC_max:0.2326
+temp_f1:0.2151 | F1_std: 0.0019 | F1_max:0.2175
+----------------------------------------------------------------------------
+2025-04-16  15:56:00
+dataset:NUS-WIDE | layer_num:2 | rep_num：3 | Ratio：0.1
+dropout:0.2 | epochs:1000 | lr:0.001 | wd:0.0005 | hidden:32
+temp_acc:0.2185 | ACC_std: 0.0112 | ACC_max:0.2333
+temp_f1:0.2048 | F1_std: 0.0116 | F1_max:0.2211
+----------------------------------------------------------------------------
+2025-04-16  16:01:22
+dataset:NUS-WIDE | layer_num:2 | rep_num：3 | Ratio：0.1
+dropout:0.2 | epochs:1000 | lr:0.0001 | wd:0.0005 | hidden:32
+temp_acc:0.2981 | ACC_std: 0.0050 | ACC_max:0.3049
+temp_f1:0.2935 | F1_std: 0.0037 | F1_max:0.2986
+----------------------------------------------------------------------------
+2025-04-16  16:05:21
+dataset:NUS-WIDE | layer_num:2 | rep_num：3 | Ratio：0.1
+dropout:0.2 | epochs:1000 | lr:0.0001 | wd:0.0005 | hidden:32
+temp_acc:0.2229 | ACC_std: 0.0157 | ACC_max:0.2340
+temp_f1:0.2174 | F1_std: 0.0132 | F1_max:0.2294
+----------------------------------------------------------------------------
+2025-04-16  16:25:56
+dataset:NUS-WIDE | layer_num:2 | rep_num：3 | Ratio：0.1
+dropout:0.2 | epochs:1000 | lr:0.0001 | wd:0.0005 | hidden:32
+temp_acc:0.3319 | ACC_std: 0.0080 | ACC_max:0.3431
+temp_f1:0.3213 | F1_std: 0.0109 | F1_max:0.3363
+----------------------------------------------------------------------------
+2025-04-16  16:29:15
+dataset:NUS-WIDE | layer_num:2 | rep_num：3 | Ratio：0.1
+dropout:0.2 | epochs:1000 | lr:0.001 | wd:0.0005 | hidden:32
+temp_acc:0.3097 | ACC_std: 0.0133 | ACC_max:0.3285
+temp_f1:0.2863 | F1_std: 0.0131 | F1_max:0.3046
+----------------------------------------------------------------------------
+2025-04-16  16:48:11
+dataset:NUS-WIDE | layer_num:2 | rep_num：3 | Ratio：0.1
+dropout:0.2 | epochs:1000 | lr:0.001 | wd:0.0005 | hidden:32
+temp_acc:0.3780 | ACC_std: 0.0066 | ACC_max:0.3854
+temp_f1:0.3613 | F1_std: 0.0057 | F1_max:0.3692
+----------------------------------------------------------------------------
+2025-04-16  16:50:09
+dataset:NUS-WIDE | layer_num:2 | rep_num：3 | Ratio：0.1
+dropout:0.2 | epochs:2000 | lr:0.0001 | wd:0.0005 | hidden:32
+temp_acc:0.4343 | ACC_std: 0.0094 | ACC_max:0.4472
+temp_f1:0.4124 | F1_std: 0.0080 | F1_max:0.4237
+----------------------------------------------------------------------------
+2025-04-16  16:51:44
+dataset:NUS-WIDE | layer_num:2 | rep_num：3 | Ratio：0.1
+dropout:0.2 | epochs:2000 | lr:0.0001 | wd:0.0005 | hidden:32
+temp_acc:0.2759 | ACC_std: 0.0072 | ACC_max:0.2861
+temp_f1:0.2502 | F1_std: 0.0052 | F1_max:0.2576
+----------------------------------------------------------------------------
+2025-04-16  16:53:46
+dataset:NUS-WIDE | layer_num:2 | rep_num：3 | Ratio：0.1
+dropout:0.2 | epochs:2000 | lr:0.0001 | wd:0.0005 | hidden:32
+temp_acc:0.3847 | ACC_std: 0.0044 | ACC_max:0.3882
+temp_f1:0.3690 | F1_std: 0.0049 | F1_max:0.3729
+----------------------------------------------------------------------------
+2025-04-16  16:57:56
+dataset:NUS-WIDE | layer_num:2 | rep_num：3 | Ratio：0.1
+dropout:0.2 | epochs:2000 | lr:0.0001 | wd:0.0005 | hidden:32
+temp_acc:0.2676 | ACC_std: 0.0146 | ACC_max:0.2806
+temp_f1:0.2556 | F1_std: 0.0163 | F1_max:0.2702
+----------------------------------------------------------------------------
+2025-04-16  17:36:22
+dataset:NUS-WIDE | layer_num:2 | rep_num：3 | Ratio：0.1
+dropout:0.2 | epochs:2000 | lr:0.0001 | wd:0.0005 | hidden:32
+temp_acc:0.4090 | ACC_std: 0.0080 | ACC_max:0.4181
+temp_f1:0.3914 | F1_std: 0.0155 | F1_max:0.4054
+----------------------------------------------------------------------------
+2025-04-16  17:38:57
+dataset:NUS-WIDE | layer_num:2 | rep_num：3 | Ratio：0.1
+dropout:0.2 | epochs:2000 | lr:0.0001 | wd:0.0005 | hidden:32
+temp_acc:0.4507 | ACC_std: 0.0175 | ACC_max:0.4667
+temp_f1:0.4331 | F1_std: 0.0185 | F1_max:0.4493
+----------------------------------------------------------------------------
+2025-04-20  14:25:41
+dataset:NUS-WIDE | layer_num:2 | rep_num：3 | Ratio：0.1
+dropout:0.2 | epochs:2000 | lr:0.0003 | wd:0.0005 | hidden:32
+temp_acc:0.1438 | ACC_std: 0.0041 | ACC_max:0.1479
+temp_f1:0.1430 | F1_std: 0.0043 | F1_max:0.1475
+----------------------------------------------------------------------------
+2025-04-20  14:29:16
+dataset:NUS-WIDE | layer_num:2 | rep_num：3 | Ratio：0.1
+dropout:0.2 | epochs:2000 | lr:0.0003 | wd:0.0005 | hidden:32
+temp_acc:0.1250 | ACC_std: 0.0000 | ACC_max:0.1250
+temp_f1:0.0278 | F1_std: 0.0000 | F1_max:0.0278
+----------------------------------------------------------------------------
+2025-04-20  14:35:44
+dataset:NUS-WIDE | layer_num:2 | rep_num：3 | Ratio：0.1
+dropout:0.2 | epochs:2000 | lr:0.0003 | wd:0.0005 | hidden:32
+temp_acc:0.1250 | ACC_std: 0.0000 | ACC_max:0.1250
+temp_f1:0.0278 | F1_std: 0.0000 | F1_max:0.0278
+----------------------------------------------------------------------------
+2025-04-20  14:42:28
+dataset:NUS-WIDE | layer_num:2 | rep_num：3 | Ratio：0.1
+dropout:0.2 | epochs:2000 | lr:0.0003 | wd:0.0005 | hidden:32
+temp_acc:0.1250 | ACC_std: 0.0000 | ACC_max:0.1250
+temp_f1:0.0278 | F1_std: 0.0000 | F1_max:0.0278
+----------------------------------------------------------------------------
+2025-04-20  14:46:45
+dataset:NUS-WIDE | layer_num:2 | rep_num：3 | Ratio：0.1
+dropout:0.2 | epochs:2000 | lr:0.0003 | wd:0.0005 | hidden:32
+temp_acc:0.1250 | ACC_std: 0.0000 | ACC_max:0.1250
+temp_f1:0.0278 | F1_std: 0.0000 | F1_max:0.0278
+----------------------------------------------------------------------------
+2025-04-20  21:59:27
+dataset:NUS-WIDE | layer_num:2 | rep_num：3 | Ratio：0.1
+dropout:0.2 | epochs:2000 | lr:0.0001 | wd:0.0005 | hidden:32
+temp_acc:0.4630 | ACC_std: 0.0003 | ACC_max:0.4632
+temp_f1:0.4580 | F1_std: 0.0007 | F1_max:0.4589
+----------------------------------------------------------------------------
+2025-04-26  20:25:35
+dataset:NUS-WIDE | layer_num:2 | rep_num：3 | Ratio：0.1
+dropout:0.2 | epochs:2000 | lr:0.0001 | wd:0.0005 | hidden:32
+temp_acc:0.4965 | ACC_std: 0.0032 | ACC_max:0.5000
+temp_f1:0.4937 | F1_std: 0.0054 | F1_max:0.5004
+----------------------------------------------------------------------------
+2025-05-11  15:39:53
+dataset:NUS-WIDE | layer_num:2 | rep_num：3 | Ratio：0.1
+dropout:0.5 | epochs:1000 | lr:0.0003 | wd:0 | hidden:64
+temp_acc:49.0972 | ACC_std: 1.0773 | ACC_max:50.5556
+temp_f1:48.8458 | F1_std: 2.0597 | F1_max:51.3768
+----------------------------------------------------------------------------
+2025-05-14  13:49:46
+dataset:NUS-WIDE | layer_num:2 | rep_num：3 | Ratio：0.025
+dropout:0.5 | epochs:1000 | lr:0.0003 | wd:0 | hidden:64
+temp_acc:33.2265 | ACC_std: 1.1254 | ACC_max:34.7436
+temp_f1:32.9258 | F1_std: 2.2440 | F1_max:35.3537
+----------------------------------------------------------------------------
+2025-05-21  14:37:18
+dataset:NUS-WIDE | layer_num:2 | rep_num：3 | Ratio：0.1
+dropout:0.5 | epochs:2000 | lr:0.0003 | wd:0.0005 | hidden:64
+temp_acc:45.3241 | ACC_std: 0.4618 | ACC_max:45.9722
+temp_f1:45.4920 | F1_std: 0.3300 | F1_max:45.9519
+----------------------------------------------------------------------------
+2025-06-22  16:47:49
+dataset:NUS-WIDE | layer_num:2 | rep_num：3 | Ratio：0.1
+dropout:0.5 | epochs:1000 | lr:0.0003 | wd:0.0005 | hidden:64
+temp_acc:46.0185 | ACC_std: 0.9989 | ACC_max:47.0139
+temp_f1:45.7337 | F1_std: 0.8880 | F1_max:46.6360
+----------------------------------------------------------------------------
+2025-06-22  16:49:32
+dataset:NUS-WIDE | layer_num:2 | rep_num：3 | Ratio：0.1
+dropout:0.5 | epochs:1000 | lr:0.0003 | wd:0.0005 | hidden:64
+temp_acc:48.9120 | ACC_std: 0.8262 | ACC_max:50.0694
+temp_f1:48.5787 | F1_std: 1.0173 | F1_max:49.9934
+----------------------------------------------------------------------------
+2025-06-22  16:51:29
+dataset:NUS-WIDE | layer_num:2 | rep_num：3 | Ratio：0.1
+dropout:0.5 | epochs:1000 | lr:0.0003 | wd:0.0005 | hidden:64
+temp_acc:46.8750 | ACC_std: 1.0031 | ACC_max:47.9861
+temp_f1:47.1706 | F1_std: 1.1517 | F1_max:48.4793
+----------------------------------------------------------------------------
+2025-07-24  15:18:59
+dataset:NUS-WIDE | layer_num:2 | rep_num：3 | lamda：0
+dropout:0.5 | epochs:1000 | lr:0.0003 | wd:0.0005 | hidden:64
+temp_acc:46.2731 | ACC_std: 1.2375 | ACC_max:47.9167
+temp_f1:45.8759 | F1_std: 1.0120 | F1_max:46.6563
+----------------------------------------------------------------------------
+2025-07-24  15:22:45
+dataset:NUS-WIDE | layer_num:2 | rep_num：3 | lamda：0.6
+dropout:0.5 | epochs:1000 | lr:0.0003 | wd:0.0005 | hidden:64
+temp_acc:44.3750 | ACC_std: 0.3969 | ACC_max:44.8611
+temp_f1:44.8045 | F1_std: 0.3725 | F1_max:45.2957
+----------------------------------------------------------------------------
+2025-07-24  15:24:20
+dataset:NUS-WIDE | layer_num:2 | rep_num：3 | lamda：0.8
+dropout:0.5 | epochs:1000 | lr:0.0003 | wd:0.0005 | hidden:64
+temp_acc:43.3102 | ACC_std: 0.8511 | ACC_max:44.3750
+temp_f1:43.4883 | F1_std: 0.6711 | F1_max:44.0597
+----------------------------------------------------------------------------
+2025-07-24  15:25:59
+dataset:NUS-WIDE | layer_num:2 | rep_num：3 | lamda：1
+dropout:0.5 | epochs:1000 | lr:0.0003 | wd:0.0005 | hidden:64
+temp_acc:43.0787 | ACC_std: 1.2192 | ACC_max:44.5833
+temp_f1:43.1005 | F1_std: 1.6424 | F1_max:45.2053
+----------------------------------------------------------------------------

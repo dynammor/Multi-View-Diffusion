@@ -1,0 +1,42 @@
+2025-03-27  14:46:29
+dataset:Youtube | layer_num:2 | rep_num：1 | Ratio：0.1
+dropout:0.5 | epochs:2500 | lr:0.001 | wd:0.0005 | hidden:32
+ACC_mean:47.3889 | ACC_std: 0.0000 | ACC_max:47.3889
+F1_mean:47.1593 | F1_std: 0.0000 | F1_max:47.1593
+----------------------------------------------------------------------------
+2025-03-27  14:47:58
+dataset:Youtube | layer_num:2 | rep_num：1 | Ratio：0.1
+dropout:0.5 | epochs:2500 | lr:0.001 | wd:0.0005 | hidden:32
+ACC_mean:36.3889 | ACC_std: 0.0000 | ACC_max:36.3889
+F1_mean:35.8662 | F1_std: 0.0000 | F1_max:35.8662
+----------------------------------------------------------------------------
+2025-03-27  14:49:21
+dataset:Youtube | layer_num:2 | rep_num：1 | Ratio：0.1
+dropout:0.5 | epochs:2500 | lr:0.01 | wd:0.0005 | hidden:32
+ACC_mean:24.5000 | ACC_std: 0.0000 | ACC_max:24.5000
+F1_mean:25.1836 | F1_std: 0.0000 | F1_max:25.1836
+----------------------------------------------------------------------------
+2025-03-27  14:50:41
+dataset:Youtube | layer_num:2 | rep_num：1 | Ratio：0.1
+dropout:0.5 | epochs:2500 | lr:0.001 | wd:0.0005 | hidden:32
+ACC_mean:44.2222 | ACC_std: 0.0000 | ACC_max:44.2222
+F1_mean:44.2266 | F1_std: 0.0000 | F1_max:44.2266
+----------------------------------------------------------------------------
+2025-04-10  18:27:00
+dataset:Youtube | layer_num:2 | rep_num：3 | Ratio：0.1
+dropout:0.2 | epochs:2500 | lr:0.001 | wd:0.0005 | hidden:32
+temp_acc:0.5985 | ACC_std: 0.0100 | ACC_max:0.6061
+temp_f1:0.5968 | F1_std: 0.0107 | F1_max:0.6056
+----------------------------------------------------------------------------
+2025-04-20  22:15:50
+dataset:Youtube | layer_num:2 | rep_num：3 | Ratio：0.1
+dropout:0.2 | epochs:2000 | lr:0.0001 | wd:0.0005 | hidden:32
+temp_acc:0.5570 | ACC_std: 0.0005 | ACC_max:0.5578
+temp_f1:0.5554 | F1_std: 0.0019 | F1_max:0.5580
+----------------------------------------------------------------------------
+2025-04-20  22:31:26
+dataset:Youtube | layer_num:2 | rep_num：3 | Ratio：0.1
+dropout:0.2 | epochs:2000 | lr:0.001 | wd:0.0005 | hidden:32
+temp_acc:0.5774 | ACC_std: 0.0160 | ACC_max:0.5983
+temp_f1:0.5743 | F1_std: 0.0154 | F1_max:0.5946
+----------------------------------------------------------------------------

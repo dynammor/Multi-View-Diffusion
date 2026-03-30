@@ -1,0 +1,6 @@
+2025-04-16  12:20:38
+dataset:handwritten | layer_num:2 | rep_num：3 | Ratio：0.1
+dropout:0.2 | epochs:1000 | lr:0.001 | wd:0.0005 | hidden:32
+temp_acc:0.9676 | ACC_std: 0.0023 | ACC_max:0.9706
+temp_f1:0.9677 | F1_std: 0.0023 | F1_max:0.9707
+----------------------------------------------------------------------------
